@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.wrangler/
+tsconfig.tsbuildinfo
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
